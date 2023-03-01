@@ -6,7 +6,6 @@ import { createProtocol } from 'vue-cli-plugin-electron-builder/lib'
 import installExtension, { VUEJS3_DEVTOOLS } from 'electron-devtools-installer'
 import genshinDb from 'genshin-db'
 import { exit } from 'process'
-const classes = require('./classes.js')
 
 const db = require('electron-db');
 const isDevelopment = process.env.NODE_ENV !== 'production'

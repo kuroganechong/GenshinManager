@@ -7,7 +7,6 @@
  */
 import { contextBridge, ipcRenderer } from 'electron'
 window.ipcRenderer = ipcRenderer
-const Character = require('./classes.js')
 
 contextBridge.exposeInMainWorld('api', {
   findCharacterByName: (name) => {

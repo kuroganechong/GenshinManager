@@ -1,25 +1,33 @@
 <template>
-  <div>
-    <table>
+  <div class="table-responsive">
+    <table class="table table-striped table-sm">
       <thead>
         <tr>
-          <th>Name</th>
-          <th>N</th>
-          <th>E</th>
-          <th>Q</th>
-          <th>Mora</th>
-          <th>Books</th>
-          <th>Mat</th>
-          <th>Boss</th>
+          <th scope="col">Name</th>
+          <th scope="col">N</th>
+          <th scope="col">E</th>
+          <th scope="col">Q</th>
+          <th scope="col">Mora (k)</th>
+          <th scope="col">Books</th>
+          <th scope="col">Mat</th>
+          <th scope="col">Boss</th>
         </tr>
       </thead>
       <tbody>
+        <tr>
+          <td>Sum</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>{{ morasum/1000 }}</td>
+          <td></td>
+        </tr>
         <tr v-for="(char, index) in chars" :key="index">
           <td>{{ char.name }}</td>
           <td>{{ char.talent1 }}</td>
           <td>{{ char.talent2 }}</td>
           <td>{{ char.talent3 }}</td>
-          <td>{{ char.costs.mora }}</td>
+          <td>{{ char.costs.mora/1000 }}</td>
           <td>
             <li v-for="(item, index) in char.costs.book" :key="index">
               {{ item.count }} {{ item.name }}
@@ -35,14 +43,6 @@
               {{ item.count }} {{ item.name }}
             </li>
           </td>
-        </tr>
-        <tr>
-          <td>Sum</td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td>{{ morasum }}</td>
-          <td></td>
         </tr>
       </tbody>
     </table>
@@ -143,7 +143,34 @@ export default {
     morasum() {
       let sum = 0
         for (let i = 0 ; i < this.chars.length; i++) {
-          console.log(this.chars[i].costs.mora)
+          sum += this.chars[i].costs.mora
+        }
+      return sum
+    },
+    booksum() {
+      let result = []
+        for (let i = 0 ; i < this.chars.length; i++) {
+          
+          let book = this.chars[i].costs.book
+          for (let i = 0; i < book.length; i++) {
+            if (result.book[i].name == book.name) {
+              result.book[i].count += book.count
+            }
+          }
+          result += this.chars[i].costs.book
+        }
+      return result
+    },
+    matsum() {
+      let sum = 0
+        for (let i = 0 ; i < this.chars.length; i++) {
+          sum += this.chars[i].costs.mora
+        }
+      return sum
+    },
+    bosssum() {
+      let sum = 0
+        for (let i = 0 ; i < this.chars.length; i++) {
           sum += this.chars[i].costs.mora
         }
       return sum
