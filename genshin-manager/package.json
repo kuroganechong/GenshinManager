@@ -14,9 +14,10 @@
   "main": "background.js",
   "dependencies": {
     "@electron/rebuild": "^3.2.10",
+    "bootstrap": "^5.2.3",
     "core-js": "^3.8.3",
     "electron-db": "^0.15.7",
-    "genshin-db": "^4.3.5",
+    "genshin-db": "^4.3.6",
     "vue": "^3.2.13"
   },
   "devDependencies": {

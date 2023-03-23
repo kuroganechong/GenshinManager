@@ -97,6 +97,26 @@ function getCharacter(name){
   return returndata
 }
 
+ipcMain.handle('findCharacterByName', (id, name) => {
+  return JSON.stringify(genshinDb.characters(name, {"matchAltNames":false}))
+})
+ipcMain.handle('findCharTalentByName', (id, name) => {
+  return JSON.stringify(genshinDb.talents(name, {"matchAltNames":false}))
+})
+
+ipcMain.handle('databasePutNewCharacter', (id, obj) => {
+  return JSON.stringify(putNewCharacter(obj))
+})
+ipcMain.handle('databaseUpdateCharacter', (id, obj) => {
+  return JSON.stringify(updateCharacter(obj))
+})
+ipcMain.handle('databaseGetAllCharacter', () => {
+  return JSON.stringify(getAllCharacter())
+})
+ipcMain.handle('databaseFindCharacter', (id, name) => {
+  return JSON.stringify(getCharacter(name))
+})
+
 
 // Scheme must be registered before the app is ready
 protocol.registerSchemesAsPrivileged([
@@ -121,7 +141,7 @@ async function createWindow() {
   if (process.env.WEBPACK_DEV_SERVER_URL) {
     // Load the url of the dev server if in development mode
     await win.loadURL(process.env.WEBPACK_DEV_SERVER_URL)
-    if (!process.env.IS_TEST) win.webContents.openDevTools()
+    //if (!process.env.IS_TEST) win.webContents.openDevTools()
   } else {
     createProtocol('app')
     // Load the index.html when not in development
@@ -158,27 +178,6 @@ app.on('ready', async () => {
   }
   createWindow()
 })
-
-ipcMain.handle('findCharacterByName', (id, name) => {
-  return JSON.stringify(genshinDb.characters(name))
-})
-ipcMain.handle('findCharTalentByName', (id, name) => {
-  return JSON.stringify(genshinDb.talents(name))
-})
-
-ipcMain.handle('databasePutNewCharacter', (id, obj) => {
-  return JSON.stringify(putNewCharacter(obj))
-})
-ipcMain.handle('databaseUpdateCharacter', (id, obj) => {
-  return JSON.stringify(updateCharacter(obj))
-})
-ipcMain.handle('databaseGetAllCharacter', () => {
-  return JSON.stringify(getAllCharacter())
-})
-ipcMain.handle('databaseFindCharacter', (id, name) => {
-  return JSON.stringify(getCharacter(name))
-})
-
 
 // Exit cleanly on request from parent process in development mode.
 if (isDevelopment) {
