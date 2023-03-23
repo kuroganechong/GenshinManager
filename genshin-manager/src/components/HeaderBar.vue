@@ -19,12 +19,12 @@
       <input
         class="form-control form-control-dark w-100 rounded-0 border-0"
         type="text"
-        placeholder="Press Enter to search"
+        placeholder="Search for Character"
         aria-label="Press Enter to search"
         v-model="searchstring"
         v-on:keyup.enter="onSearch"
       />
-      <CharacterModal/>
+      <CharacterModal v-model:propShowCharPopUp="propShowCharPopUp" :propCharData="propCharData"/>
     </header>
 </template>
 
@@ -38,7 +38,9 @@ export default {
   },
   data() {
     return {
-      searchstring: ""
+      searchstring: "",
+      propCharData: {},
+      propShowCharPopUp: false
     }
   },
   computed: {},
@@ -48,12 +50,12 @@ export default {
         const response = await window.api.findCharacterByName(this.searchstring)
         try {
           const data = JSON.parse(response)
-          console.log(data)
+          this.propCharData = data
+          this.propShowCharPopUp = true
         } catch (error) {
           console.log(error)
         }
         this.searchstring = ""
-        window.showModal("myModal")
       }
     }
   },}

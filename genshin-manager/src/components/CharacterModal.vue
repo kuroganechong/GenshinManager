@@ -1,40 +1,43 @@
 <template>
-    <button @click="openmodal">{{ open }}</button>
-
     <Teleport to="body">
-        <div v-if="!open" class="modal" id="myModal">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h5 class="modal-title">Modal title</h5>
-                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                    </div>
-                    <div class="modal-body">
-                        <p>Modal body text goes here.</p>
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                        <button type="button" class="btn btn-primary">Save changes</button>
-                    </div>
-                </div>
-            </div>
-            <button @click="open = false">{{ open }}</button>
+        <div v-if="showCharPopUp" class="card modal1" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">{{ propCharData.name }}</h5>
+            <p class="card-text">{{ propCharData.description }}</p>
+            <button type="button" class="btn btn-secondary" @click="showCharPopUp = false">Close</button>
+          </div>
         </div>
     </Teleport>
 </template>
 
 <script>
 export default {
+  props: {
+    propShowCharPopUp: {
+      required: true,
+      type: Boolean
+    },
+    propCharData: {
+      required: true,
+      type: Object
+    }
+  },
+  emits: ['update:propShowCharPopUp'],
   data() {
     return {
-      open: false
+    }
+  },
+  computed: {
+    showCharPopUp: {
+      get() {
+        return this.propShowCharPopUp
+      },
+      set(value) {
+        this.$emit('update:propShowCharPopUp', value)
+      }
     }
   },
   methods: {
-    openmodal: function (){
-        window.api.showModal("myModal")
-        this.open = true
-    }
   },
 }
 </script>
