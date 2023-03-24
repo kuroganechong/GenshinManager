@@ -47,6 +47,10 @@ export default {
     CharacterTable,
     HeaderBar,
     NavCol
+  },
+  data() {
+    return {
+    }
   }
 }
 

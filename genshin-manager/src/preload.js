@@ -15,6 +15,9 @@ contextBridge.exposeInMainWorld('api', {
   findCharTalentByName: (name) => {
     return ipcRenderer.invoke('findCharTalentByName', name)
   },
+  findMatByName: (name) => {
+    return ipcRenderer.invoke('findMatByName', name)
+  },
   databasePutNewCharacter: (obj) => {
     return ipcRenderer.invoke('databasePutNewCharacter', obj)
   },

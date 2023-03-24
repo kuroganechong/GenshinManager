@@ -14,6 +14,7 @@ const isDevelopment = process.env.NODE_ENV !== 'production'
 const databaselocation = path.join(__dirname, '')
 
 // Create table if not exist
+// TODO: LOOKS LIKE BROKEN
 if (!db.valid('playerdata', databaselocation)){
   db.createTable('playerdata', databaselocation, (succ, msg) => {
     // succ - boolean, tells if the call is successful
@@ -97,13 +98,18 @@ function getCharacter(name){
   return returndata
 }
 
+/** Genshin DB handler */
 ipcMain.handle('findCharacterByName', (id, name) => {
   return JSON.stringify(genshinDb.characters(name, {"matchAltNames":false}))
 })
 ipcMain.handle('findCharTalentByName', (id, name) => {
   return JSON.stringify(genshinDb.talents(name, {"matchAltNames":false}))
 })
+ipcMain.handle('findMatByName', (id, name) => {
+  return JSON.stringify(genshinDb.materials(name))
+})
 
+/** Player Data handler */
 ipcMain.handle('databasePutNewCharacter', (id, obj) => {
   return JSON.stringify(putNewCharacter(obj))
 })
@@ -117,7 +123,6 @@ ipcMain.handle('databaseFindCharacter', (id, name) => {
   return JSON.stringify(getCharacter(name))
 })
 
-
 // Scheme must be registered before the app is ready
 protocol.registerSchemesAsPrivileged([
   { scheme: 'app', privileges: { secure: true, standard: true } }
@@ -129,7 +134,7 @@ async function createWindow() {
     width: 1600,
     height: 1200,
     webPreferences: {
-      
+      webSecurity: false,
       // Use pluginOptions.nodeIntegration, leave this alone
       // See nklayman.github.io/vue-cli-plugin-electron-builder/guide/security.html#node-integration for more info
       preload: path.join(__dirname, 'preload.js'),
