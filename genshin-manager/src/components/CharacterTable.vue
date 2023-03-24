@@ -1,4 +1,5 @@
 <template>
+  {{ itemImageDict['Mora'] }}
   <div class="accordion accordion-flush" id="accordionFlushExample">
     <CharacterTableSummary v-model:propItemImageDict="itemImageDict" :propChars="propChars"/>
     <CharacterTableDetails v-model:propChars="propChars"/>
@@ -20,6 +21,7 @@ export default {
     return {
       propChars: [],
       itemImageDict: {
+        // Placeholder structure
         'scroll': {
           images: 'https://link',
           rarity: 3,

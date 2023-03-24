@@ -14,7 +14,11 @@
                 Mora
               </div>
               <ul class="list-group list-group-flush">
-                <li class="list-group-item">{{ morasum/1000 }}k</li>
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+                  <div >
+                    <img :src="getImage('Mora')" class="iconimg"> {{ formatNumber(morasum) }}
+                  </div>
+                </li>
               </ul>
             </div>
           </div>
@@ -26,7 +30,7 @@
               </div>
               <ul class="list-group list-group-flush">
                 <li class="list-group-item d-flex justify-content-between align-items-start" v-for="(item, index) in booksum" :key="index">
-                  <div class="fw-bold">
+                  <div class="fw-bold" :class="getRarity(item.name)">
                     <img :src="getImage(item.name)" class="iconimg"> {{ item.name }}
                   </div>
                   {{ item.count }}
@@ -42,7 +46,7 @@
               </div>
               <ul class="list-group list-group-flush">
                 <li class="list-group-item d-flex justify-content-between align-items-start" v-for="(item, index) in matsum" :key="index">
-                  <div class="fw-bold">
+                  <div class="fw-bold" :class="getRarity(item.name)">
                     <img :src="getImage(item.name)" class="iconimg"> {{ item.name }}
                   </div>
                   {{ item.count }}
@@ -58,7 +62,7 @@
               </div>
               <ul class="list-group list-group-flush">
                 <li class="list-group-item d-flex justify-content-between align-items-start" v-for="(item, index) in bosssum" :key="index">
-                  <div class="fw-bold">
+                  <div class="fw-bold" :class="getRarity(item.name)">
                     <img :src="getImage(item.name)" class="iconimg"> {{ item.name }}
                   </div>
                   {{ item.count }}
@@ -73,26 +77,7 @@
 </template>
 
 <script>
-async function fetchItemDetailsFromSum(object) {
-  let temp = {}
-  for (const key in object) {
-    if (Object.hasOwnProperty.call(object, key)) {
-      const element = object[key];
-      const response = await (async (name) => {
-        let response
-        response = await window.api.findMatByName(name)
-        return JSON.parse(response)
-      })(element.name);
-      temp[response.name] = {
-        images: response.images.fandom,
-        rarity: response.rarity,
-        source: response.source,
-      }
-    }
-  }
-  return structuredClone(temp)
-}
-
+const Utils = require('../utils.js')
 export default {
   name: "CharacterTableSummary",
   props: {
@@ -113,10 +98,11 @@ export default {
   watch: {
     // Set propChars as watcher, when propChars change, fetch updated imagedicts from database and store in temp
     async propChars() {
-      const response1 = await fetchItemDetailsFromSum(this.booksum)
-      const response2 = await fetchItemDetailsFromSum(this.matsum)
-      const response3 = await fetchItemDetailsFromSum(this.bosssum)
-      const response = Object.assign({}, response1, response2, response3);
+      const response0 = await Utils.fetchItemDetails('Mora')
+      const response1 = await Utils.fetchItemDetailsFromSum(this.booksum)
+      const response2 = await Utils.fetchItemDetailsFromSum(this.matsum)
+      const response3 = await Utils.fetchItemDetailsFromSum(this.bosssum)
+      const response = Object.assign({}, response0, response1, response2, response3);
       this.itemImageDict = response
     }
   },
@@ -198,10 +184,27 @@ export default {
     }
   },
   methods: {
-    async getImage(name) {
-      const requestImg = new Request(this.itemImageDict[name]?.images)
-      const response = await fetch(requestImg)
-      return response.url
+    getImage(name) {
+      return this.itemImageDict[name]?.images
+    },
+    formatNumber(number) {
+      return new Intl.NumberFormat('ja-JP').format(number)
+    },
+    getRarity(name) {
+      switch(parseInt(this.itemImageDict[name]?.rarity)) {
+        case 1:
+          return {common: true}
+        case 2:
+          return {uncommon: true}
+        case 3:
+          return {rare: true}
+        case 4:
+          return {unusual: true}
+        case 5:
+          return {legendary: true}
+        default:
+          return {}
+      }
     }
   },
 };
@@ -215,6 +218,21 @@ a {
   color: #42b983;
 }
 .iconimg {
-  height: 1em
+  height: 3em
+}
+.common {
+  color: #72778B;
+}
+.uncommon {
+ color: #2B9072
+}
+.rare {
+ color: #5180CC
+}
+.unusual {
+ color: #A256E1
+}
+.legendary {
+ color: #bf6a32
 }
 </style>

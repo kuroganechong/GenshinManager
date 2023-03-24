@@ -28,7 +28,6 @@
             </button>
           </div>
         </div>
-
         <CharacterTable/>
         
       </main>
