@@ -1,8 +1,15 @@
 <template>
-  {{ itemImageDict['Mora'] }}
-  <div class="accordion accordion-flush" id="accordionFlushExample">
-    <CharacterTableSummary v-model:propItemImageDict="itemImageDict" :propChars="propChars"/>
-    <CharacterTableDetails v-model:propChars="propChars"/>
+  <div class="accordion accordion-flush" id="characterTable">
+    <div class="btn-group" role="group">
+      <button class="accordion-button collapsed tabs" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+        Summary&nbsp;
+      </button>
+      <button class="accordion-button collapsed tabs" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+        Details&nbsp;
+      </button>
+    </div>
+    <CharacterTableSummary v-model:propItemImageDict="itemImageDict" :propChars="chars"/>
+    <CharacterTableDetails v-model:propChars="chars" :propItemImageDict="itemImageDict"/>
   </div>
 </template>
 
@@ -17,18 +24,38 @@ export default {
     CharacterTableSummary,
     CharacterTableDetails,
   },
+  props: {
+    propItemImageDict: {
+      required: true,
+      type: Object
+    },
+    propChars: {
+      required: true,
+      type: Object
+    }
+  },
+  emits: ['update:propItemImageDict','update:propChars'],
   data() {
     return {
-      propChars: [],
-      itemImageDict: {
-        // Placeholder structure
-        'scroll': {
-          images: 'https://link',
-          rarity: 3,
-          source: 'Dropped by ....'
-        }
-      }
     }
+  },
+  computed: {
+    itemImageDict: {
+      get() {
+        return this.propItemImageDict
+      },
+      set(value) {
+        this.$emit('update:propItemImageDict', value)
+      }
+    },
+    chars: {
+      get() {
+        return this.propChars
+      },
+      set(value) {
+        this.$emit('update:propChars', value)
+      }
+    },
   }
 }
 </script>

@@ -1,22 +1,21 @@
 <template>
-  <div class="accordion-item">
-    <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#characterTable">
-      <div class="accordion-body">
-        <div class="row d-flex">
-          <div class="col-sm-1 card-col" v-for="(char, index) in chars" :key="index">
-            <div class="card card-custom">
-              <img :src="char.image.avatar" class="card-img-top clickable" @error="imageUrlAlt($event, char.image.icon)" @click="launchCharacterModal(index)">
-              <div class="card-body">
-                <span class="fw-bold">{{ char.name }}</span>
-              </div>
-              
-              <div class="btn-group" role="group" aria-label="Basic example">
-                <button type="button" class="btn noclick">{{ char.talent1 }}</button>
-                <button type="button" class="btn noclick">{{ char.talent2 }}</button>
-                <button type="button" class="btn noclick">{{ char.talent3 }}</button>
-              </div>
-            </div>
+  <div class="row d-flex">
+    <div class="col-sm-1 card-col" v-for="(char, index) in chars" :key="index">
+      <div class="card card-custom">
+        <img :src="char.image.avatar" class="card-img-top clickable" @error="imageUrlAlt($event, char.image.icon)" @click="launchCharacterModal(index)">
+        <div class="card-body">
+          <div class="d-flex justify-content-between">
+            <div class="p-2 fw-bold">{{ char.name }}</div>
+            <div class="p-2">{{ char.set1 }}</div>
           </div>
+        </div>
+        
+        <div class="btn-group" role="group" aria-label="Basic example">
+          <button type="button" class="btn noclick">{{ char.a1 }}</button>
+          <button type="button" class="btn noclick">{{ char.a2 }}</button>
+          <button type="button" class="btn noclick">{{ char.a3 }}</button>
+          <button type="button" class="btn noclick">{{ char.a4 }}</button>
+          <button type="button" class="btn noclick">{{ char.a5 }}</button>
         </div>
       </div>
     </div>
@@ -76,7 +75,6 @@ export default {
       event.target.src = alturl
     },
     async handleRefreshChars(name){
-      // Only update the specific character in this.chars
       const response = await window.api.databaseFindCharacter(name)
       const data = JSON.parse(response)
       let char = data[0]
@@ -108,6 +106,7 @@ export default {
           if(element.name == name) {
             this.chars[key] = char
             this.characterData = char
+            this.$emit('refreshItemImageDict')
           }
         }
       }
@@ -167,11 +166,11 @@ a {
   color: #42b983;
 }
 .card-col {
-  width: 10%;
+  width: 15%;
   padding-bottom: 1rem;
 }
 .card-custom {
-  min-height: 14rem;
+  min-height: 20rem;
 }
 .card-body {
   padding-bottom: 0;

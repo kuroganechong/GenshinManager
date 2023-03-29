@@ -88,26 +88,69 @@ module.exports = {
     return result
   },
   async getRedirectedURL(URL) {
-    const requestImg = new Request(URL)
-    const response = await fetch(requestImg)
-    return response.url
+    // check if exist in database
+    const URLresponse = JSON.parse(await window.api.databaseGetURL(URL))
+    if(!URLresponse[0]) {
+      // else, fetch new url
+      const requestImg = new Request(URL)
+      const response = await fetch(requestImg)
+      let imageurl = response.url
+      let newimageurl = imageurl.split('.png')[0] + '.png'
+      await window.api.databasePutNewURL(URL, newimageurl)
+      return newimageurl
+    }
+    return URLresponse[0].value
   },
-  async fetchItemDetailsFromSum(object) {
+  async fetchAllItemDetails() {
     let temp = {}
-    for (const key in object) {
-      if (Object.hasOwnProperty.call(object, key)) {
-        const element = object[key];
-        const response = await (async (name) => {
-          let response
-          response = await window.api.findMatByName(name)
-          return JSON.parse(response)
-        })(element.name);
-        let imageurl = await this.getRedirectedURL(response.images.redirect)
-        let newimageurl = imageurl.split('.png')[0] + '.png'
-        temp[response.name] = {
-          images: newimageurl,
-          rarity: response.rarity,
-          source: response.source,
+    const response = JSON.parse(await window.api.getAllMat())
+    for (const key in response) {
+      if (Object.hasOwnProperty.call(response, key)) {
+        const element = response[key];
+        
+        //// materialtype
+        //// Common Currency: Mora - source
+        //// Character Talent Material: Book - dropdomain,daysofweek
+        //// Character and Weapon Enhancement Material: mat - source
+        //// Character Level-Up Material: boss - source
+        let source
+        switch (element.materialtype){
+          case "Character Talent Material":
+            source = {
+              dropdomain: element.dropdomain,
+              daysofweek: element.daysofweek
+            }
+            break
+          case "Character and Weapon Enhancement Material":
+            source = []
+            for (const key in element.source) {
+              if (Object.hasOwnProperty.call(element.source, key)) {
+                const e = element.source[key];
+                // Get only enemy name
+                // Dropped by (Lv. xx+ )[NAME]
+                // Dropped uncommonly by (Lv. xx+ )[NAME]
+                // Dropped by some (Lv. xx+ )[NAME]
+                let replacedelement = e.replace('Dropped by ', '')
+                replacedelement = replacedelement.replace('Dropped uncommonly by ', '')
+                replacedelement = replacedelement.replace('some ', '')
+                replacedelement = replacedelement.replace('Lv. 40+ ', '')
+                replacedelement = replacedelement.replace('Lv. 60+ ', '')
+                if (replacedelement != 'Stardust Exchange' && replacedelement != 'Crafted') {
+                  source.push(replacedelement)
+                }
+              }
+            }
+            break
+          default:
+            source = element.source
+        }
+
+        let imageurl = await this.getRedirectedURL(element.images.redirect)
+        temp[element.name] = {
+          sortorder: element.sortorder,
+          images: imageurl,
+          rarity: element.rarity,
+          source: source,
         }
       }
     }
@@ -117,9 +160,8 @@ module.exports = {
     let temp = {}
     const response = JSON.parse(await window.api.findMatByName(name))
     let imageurl = await this.getRedirectedURL(response.images.redirect)
-    let newimageurl = imageurl.split('.png')[0] + '.png'
     temp[response.name] = {
-      images: newimageurl,
+      images: imageurl,
       rarity: response.rarity,
       source: response.source,
     }

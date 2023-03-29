@@ -12,17 +12,17 @@ const db = require('electron-db');
 const isDevelopment = false //process.env.NODE_ENV !== 'production'
 
 // This will save the database in the same directory as the application.
-//const databaselocation = path.join(__dirname, '')
+const databaselocation = path.join(__dirname, '')
 
 if (
-  !fs.existsSync(path.join('playerdata.json')) ||
-  !fs.existsSync(path.join('URLdata.json')) ||
-  !fs.existsSync(path.join('userdata.json'))
+  !fs.existsSync(path.join(databaselocation, 'playerdata.json')) ||
+  !fs.existsSync(path.join(databaselocation, 'URLdata.json')) ||
+  !fs.existsSync(path.join(databaselocation, 'userdata.json'))
   ) {
   ///// Store character data:
   // Name: talent1: talent2: talent3: a1: a2: a3: a4: a5:
   // mainsands maingoblet maincirclet set1 set2
-  db.createTable('playerdata', (succ, msg) => {
+  db.createTable('playerdata', databaselocation, (succ, msg) => {
     // succ - boolean, tells if the call is successful
     if (succ) {
       console.log(msg)
@@ -33,7 +33,7 @@ if (
   })
 
   // Create URL table if not exist
-  db.createTable('URLdata', (succ, msg) => {
+  db.createTable('URLdata', databaselocation, (succ, msg) => {
     // succ - boolean, tells if the call is successful
     if (succ) {
       console.log(msg)
@@ -47,7 +47,7 @@ if (
   // Name: value:
   ///// Store material data: number of each part
   // Name: value:
-  db.createTable('userdata', (succ, msg) => {
+  db.createTable('userdata', databaselocation, (succ, msg) => {
     // succ - boolean, tells if the call is successful
     if (succ) {
       console.log(msg)
@@ -70,13 +70,13 @@ if (
 function putNewCharacter(obj){
   let returnsucc = false
   // Check for existing character
-  db.getRows('playerdata', {name: obj.name}, (succ, result) => {
+  db.getRows('playerdata', databaselocation, {name: obj.name}, (succ, result) => {
     if(succ && result.length > 0) {
       console.log("Already exist: "+JSON.stringify(result))
     }
     else {
       // Insert new
-      db.insertTableContent('playerdata', obj, (succ, msg) => {
+      db.insertTableContent('playerdata', databaselocation, obj, (succ, msg) => {
         if(succ) {
           console.log("Put New Playerdata for " + obj.name + ": "+ msg);
         }
@@ -109,7 +109,7 @@ function updateCharacter(obj){
   }
 
   let returnsucc
-  db.updateRow('playerdata', where, set, (succ, msg) => {
+  db.updateRow('playerdata', databaselocation, where, set, (succ, msg) => {
     // succ - boolean, tells if the call is successful
     if(succ) console.log("Update Playerdata for " + obj.name + ": "+ msg)
     returnsucc = succ
@@ -119,7 +119,7 @@ function updateCharacter(obj){
 
 function getAllCharacter(){
   let returndata = []
-  db.getAll('playerdata', (succ, data) => {
+  db.getAll('playerdata', databaselocation, (succ, data) => {
     // succ - boolean, tells if the call is successful
     if(succ) {
       returndata = data
@@ -130,7 +130,7 @@ function getAllCharacter(){
 
 function getCharacter(name){
   let returndata = []
-  db.getRows('playerdata', {name: name}, (succ, result) => {
+  db.getRows('playerdata', databaselocation, {name: name}, (succ, result) => {
     // succ - boolean, tells if the call is successful
     if(succ) {
       returndata = result
@@ -140,7 +140,7 @@ function getCharacter(name){
 }
 
 function delCharacter(name){
-  db.deleteRow('playerdata', {'name': name}, (succ, msg) => {
+  db.deleteRow('playerdata', databaselocation, {'name': name}, (succ, msg) => {
     console.log("Delete Playerdata for " + name + ": "+ msg);
   });
 }
@@ -149,13 +149,13 @@ function delCharacter(name){
 function putNewMat(name, value){
   let returnsucc = false
   // Check for existing mat
-  db.getRows('userdata', {name: name}, (succ, result) => {
+  db.getRows('userdata', databaselocation, {name: name}, (succ, result) => {
     if(succ && result.length > 0) {
       console.log("Already exist: "+JSON.stringify(result))
     }
     else {
       // Insert new
-      db.insertTableContent('userdata', {name: name, value: value}, (succ, msg) => {
+      db.insertTableContent('userdata', databaselocation, {name: name, value: value}, (succ, msg) => {
         if(succ) {
           console.log("Put New Userdata for " + name + ": "+ msg);
         }
@@ -176,7 +176,7 @@ function updateMat(name, value){
   }
 
   let returnsucc
-  db.updateRow('userdata', where, set, (succ, msg) => {
+  db.updateRow('userdata', databaselocation, where, set, (succ, msg) => {
     // succ - boolean, tells if the call is successful
     if(succ) console.log("Update Userdata for " + name + ": "+ msg)
     returnsucc = succ
@@ -186,7 +186,7 @@ function updateMat(name, value){
 
 function getMat(name){
   let returndata = []
-  db.getRows('userdata', {name: name}, (succ, result) => {
+  db.getRows('userdata', databaselocation, {name: name}, (succ, result) => {
     // succ - boolean, tells if the call is successful
     if(succ) {
       returndata = result
@@ -197,7 +197,7 @@ function getMat(name){
 
 function getAllMat(){
   let returndata = []
-  db.getAll('userdata', (succ, data) => {
+  db.getAll('userdata', databaselocation, (succ, data) => {
     // succ - boolean, tells if the call is successful
     if(succ) {
       returndata = data
@@ -210,13 +210,13 @@ function getAllMat(){
 function putNewURL(URL, newURL){
   let returnsucc = false
   // Check for existing URL
-  db.getRows('URLdata', {name: URL}, (succ, result) => {
+  db.getRows('URLdata', databaselocation, {name: URL}, (succ, result) => {
     if(succ && result.length > 0) {
       console.log("Already exist: "+JSON.stringify(result))
     }
     else {
       // Insert new
-      db.insertTableContent('URLdata', {name: URL, value: newURL}, (succ, msg) => {
+      db.insertTableContent('URLdata', databaselocation, {name: URL, value: newURL}, (succ, msg) => {
         if(succ) {
           console.log("Put New URLdata for " + URL + ": "+ msg);
         }
@@ -237,7 +237,7 @@ function updateURL(URL, newURL){
   }
 
   let returnsucc
-  db.updateRow('URLdata', where, set, (succ, msg) => {
+  db.updateRow('URLdata', databaselocation, where, set, (succ, msg) => {
     // succ - boolean, tells if the call is successful
     if(succ) console.log("Update URLdata for " + URL + ": "+ msg)
     returnsucc = succ
@@ -247,7 +247,7 @@ function updateURL(URL, newURL){
 
 function getURL(URL){
   let returndata = []
-  db.getRows('URLdata', {name: URL}, (succ, result) => {
+  db.getRows('URLdata', databaselocation, {name: URL}, (succ, result) => {
     // succ - boolean, tells if the call is successful
     if(succ) {
       returndata = result
