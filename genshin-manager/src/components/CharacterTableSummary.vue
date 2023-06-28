@@ -311,7 +311,7 @@ export default {
       for (const key in this.booksum) {
         if (Object.hasOwnProperty.call(this.booksum, key)) {
           const element = this.booksum[key];
-          const rarity = this.itemImageDict[element.name].rarity
+          const rarity = this.itemImageDict[element.name]?.rarity
           switch(parseInt(rarity)){
             case 4:
               result += parseInt(element.count)*9
@@ -363,7 +363,8 @@ export default {
       return this.itemImageDict[name]?.sortorder
     },
     async updateAmount(name, value) {
-      if(!isNaN(value) && value != "" && value >= 0) {
+      if(isNaN(value)) value = 0
+      if(!isNaN(value) && parseInt(value) >= 0) {
         let num = parseInt(value)
         const response = await window.api.databaseUpdateMat(name, num)
         if(response) {
@@ -426,7 +427,7 @@ a {
     list-style-type: none;
 }
 .mat-amount{
-  max-width: 3em;
+  max-width: 4em;
   border: none;
 }
 </style>

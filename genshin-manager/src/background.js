@@ -178,8 +178,13 @@ function updateMat(name, value){
   let returnsucc
   db.updateRow('userdata', where, set, (succ, msg) => {
     // succ - boolean, tells if the call is successful
-    if(succ) console.log("Update Userdata for " + name + ": "+ msg)
-    returnsucc = succ
+    if(succ) {
+      console.log("Update Userdata for " + name + ": "+ msg)
+      returnsucc = succ
+    } else {
+      putNewMat(name,value)
+      returnsucc = updateMat(name,value)
+    }
   })
   return returnsucc
 }

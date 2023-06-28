@@ -7,7 +7,7 @@
             <div class="card card-custom">
               <img :src="char.image.avatar" class="card-img-top clickable" @error="imageUrlAlt($event, char.image.icon)" @click="launchCharacterModal(index)">
               <div class="card-body">
-                <span class="fw-bold">{{ char.name }}</span>
+                <span class="fw-bold clickable" @click="launchCharacterModal(index)">{{ char.name }}</span>
               </div>
               
               <div class="btn-group" role="group" aria-label="Basic example">
@@ -93,6 +93,12 @@ export default {
           avatar: JSON.parse(charresponse).images['hoyolab-avatar']?JSON.parse(charresponse).images['hoyolab-avatar']: JSON.parse(charresponse).images['icon'],
           icon: JSON.parse(charresponse).images['icon']
         }
+        if(!await checkLinkAvail(char.image.avatar)) {
+          char.image.avatar = 'https://placehold.co/png'
+        }
+        if(!await checkLinkAvail(char.image.icon)) {
+          char.image.icon = 'https://placehold.co/png'
+        }        
       } 
       else {
         const lumineresponse = await window.api.findCharacterByName('Lumine')
@@ -130,6 +136,12 @@ export default {
           avatar: JSON.parse(charresponse).images['hoyolab-avatar']?JSON.parse(charresponse).images['hoyolab-avatar']: JSON.parse(charresponse).images['icon'],
           icon: JSON.parse(charresponse).images['icon']
         }
+        if(!await checkLinkAvail(char.image.avatar)) {
+          char.image.avatar = ''
+        }
+        if(!await checkLinkAvail(char.image.icon)) {
+          char.image.icon = ''
+        }
       } 
       else {
         const lumineresponse = await window.api.findCharacterByName('Lumine')
@@ -157,6 +169,17 @@ export default {
     this.chars = data;
   }
 };
+
+async function checkLinkAvail(link) {
+  try {
+    const response = await fetch(link);
+    if(response.status == '200') return true
+    else return false
+  } catch (err) {
+    console.log(err);
+    return false
+  }
+}
 </script>
 
 <style scoped>
