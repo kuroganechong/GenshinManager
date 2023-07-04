@@ -1,0 +1,2439 @@
+{
+  "URLdata": [
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Abiding_Angelfish.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/66/Item_Abiding_Angelfish.png",
+      "id": 1680026641760
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Acquaint_Fate.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Item_Acquaint_Fate.png",
+      "id": 1680026642245
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Activated_Starshroom.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Item_Activated_Starshroom.png",
+      "id": 1680026642653
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Adhigama_Wood.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/c5/Item_Adhigama_Wood.png",
+      "id": 1680026643090
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Adventure_EXP.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Item_Adventure_EXP.png",
+      "id": 1680026643564
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Adventurer's_Experience.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png",
+      "id": 1680026644001
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Agent's_Sacrificial_Knife.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Agent%27s_Sacrificial_Knife.png",
+      "id": 1680026644465
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Agnidus_Agate_Chunk.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Item_Agnidus_Agate_Chunk.png",
+      "id": 1680026644904
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Agnidus_Agate_Fragment.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Item_Agnidus_Agate_Fragment.png",
+      "id": 1680026645327
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Agnidus_Agate_Gemstone.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Item_Agnidus_Agate_Gemstone.png",
+      "id": 1680026645751
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Agnidus_Agate_Sliver.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Item_Agnidus_Agate_Sliver.png",
+      "id": 1680026646205
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Aizen_Medaka.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Item_Aizen_Medaka.png",
+      "id": 1680026646638
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ajilenakh_Nut.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Ajilenakh_Nut.png",
+      "id": 1680026647063
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Akai_Maou.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Item_Akai_Maou.png",
+      "id": 1680026647506
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ako's_Sake_Vessel.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Item_Ako%27s_Sake_Vessel.png",
+      "id": 1680026647965
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Alkahest.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Alkahest.png",
+      "id": 1680026648396
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Almond.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Item_Almond.png",
+      "id": 1680026648883
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Amakumo_Fruit.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Amakumo_Fruit.png",
+      "id": 1680026649369
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Amethyst_Lump.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/7d/Item_Amethyst_Lump.png",
+      "id": 1680026649772
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Anemo_Sigil.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Item_Anemo_Sigil.png",
+      "id": 1680026650179
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Apple.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Apple.png",
+      "id": 1680026650672
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Aralia_Wood.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Item_Aralia_Wood.png",
+      "id": 1680026651120
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ashen_Heart.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/29/Item_Ashen_Heart.png",
+      "id": 1680026651134
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Athel_Wood.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Item_Athel_Wood.png",
+      "id": 1680026651620
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bacon.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/16/Item_Bacon.png",
+      "id": 1680026652102
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bamboo_Segment.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Bamboo_Segment.png",
+      "id": 1680026652549
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bamboo_Shoot.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Bamboo_Shoot.png",
+      "id": 1680026653017
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Basalt_Pillar.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Basalt_Pillar.png",
+      "id": 1680026653508
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_BEP.png",
+      "value": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_BEP.png",
+      "id": 1680026653812
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Berry.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/65/Item_Berry.png",
+      "id": 1680026654229
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Betta.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/ed/Item_Betta.png",
+      "id": 1680026654669
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Big_Pretty_Crystal.png",
+      "value": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Big_Pretty_Crystal.png",
+      "id": 1680026654976
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Birch_Wood.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Item_Birch_Wood.png",
+      "id": 1680026655439
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bird_Egg.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Item_Bird_Egg.png",
+      "id": 1680026655859
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bit_of_Aerosiderite.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Bit_of_Aerosiderite.png",
+      "id": 1680026656334
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bitter_Pufferfish.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Bitter_Pufferfish.png",
+      "id": 1680026656800
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Black_Bronze_Horn.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/42/Item_Black_Bronze_Horn.png",
+      "id": 1680026657246
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Black_Crystal_Horn.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Item_Black_Crystal_Horn.png",
+      "id": 1680026657684
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Blessing_of_the_Welkin_Moon_-_New_Moon.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Item_Blessing_of_the_Welkin_Moon.png",
+      "id": 1680026658156
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bloodjade_Branch.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Item_Bloodjade_Branch.png",
+      "id": 1680026658172
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Blue_Dye.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/62/Item_Blue_Dye.png",
+      "id": 1680026658659
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Boreal_Wolf's_Broken_Fang.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Boreal_Wolf%27s_Broken_Fang.png",
+      "id": 1680026659132
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Boreal_Wolf's_Cracked_Tooth.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Boreal_Wolf%27s_Cracked_Tooth.png",
+      "id": 1680026659602
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Boreal_Wolf's_Milk_Tooth.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Boreal_Wolf%27s_Milk_Tooth.png",
+      "id": 1680026660030
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Boreal_Wolf's_Nostalgia.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Item_Boreal_Wolf%27s_Nostalgia.png",
+      "id": 1680026660470
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Brightwood.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Item_Brightwood.png",
+      "id": 1680026660965
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Brilliant_Diamond_Chunk.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Item_Brilliant_Diamond_Chunk.png",
+      "id": 1680026661421
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Brilliant_Diamond_Fragment.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Brilliant_Diamond_Fragment.png",
+      "id": 1680026661849
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Brilliant_Diamond_Gemstone.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Brilliant_Diamond_Gemstone.png",
+      "id": 1680026662325
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Brilliant_Diamond_Sliver.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Brilliant_Diamond_Sliver.png",
+      "id": 1680026662758
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Brown_Shirakodai.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/43/Item_Brown_Shirakodai.png",
+      "id": 1680026663234
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Butter.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/78/Item_Butter.png",
+      "id": 1680026663659
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Butterfly_Wings.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Item_Butterfly_Wings.png",
+      "id": 1680026664099
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cabbage.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Item_Cabbage.png",
+      "id": 1680026664525
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cake_for_Traveler.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Item_Cake_for_Traveler.png",
+      "id": 1680026665002
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Calla_Lily.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Item_Calla_Lily.png",
+      "id": 1680026665452
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Carrot.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/1e/Item_Carrot.png",
+      "id": 1680026665951
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cecilia.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Cecilia.png",
+      "id": 1680026666409
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chains_of_the_Dandelion_Gladiator.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Item_Chains_of_the_Dandelion_Gladiator.png",
+      "id": 1680026666895
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Axis.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Item_Chaos_Axis.png",
+      "id": 1680026667354
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Bolt.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Item_Chaos_Bolt.png",
+      "id": 1680026667778
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Circuit.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Item_Chaos_Circuit.png",
+      "id": 1680026668225
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Core.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Chaos_Core.png",
+      "id": 1680026668714
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Device.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Item_Chaos_Device.png",
+      "id": 1680026669169
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Gear.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Chaos_Gear.png",
+      "id": 1680026669615
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Module.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Item_Chaos_Module.png",
+      "id": 1680026670052
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Oculus.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Item_Chaos_Oculus.png",
+      "id": 1680026670515
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Storage.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Item_Chaos_Storage.png",
+      "id": 1680026670962
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cheese.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Item_Cheese.png",
+      "id": 1680026671420
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chilled_Meat.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/da/Item_Chilled_Meat.png",
+      "id": 1680026671840
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chunk_of_Aerosiderite.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Item_Chunk_of_Aerosiderite.png",
+      "id": 1680026672328
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cleansing_Heart.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Item_Cleansing_Heart.png",
+      "id": 1680026672808
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Coffee_Beans.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Item_Coffee_Beans.png",
+      "id": 1680026673294
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Companionship_EXP.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Item_Companionship_EXP.png",
+      "id": 1680026673774
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Concealed_Claw.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Concealed_Claw.png",
+      "id": 1680026674221
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Concealed_Talon.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Item_Concealed_Talon.png",
+      "id": 1680026674638
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Concealed_Unguis.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Item_Concealed_Unguis.png",
+      "id": 1680026675129
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Condensed_Resin.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Item_Condensed_Resin.png",
+      "id": 1680026675606
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Copper_Talisman_of_the_Forest_Dew.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Item_Copper_Talisman_of_the_Forest_Dew.png",
+      "id": 1680026676074
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Coral_Branch_of_a_Distant_Sea.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Item_Coral_Branch_of_a_Distant_Sea.png",
+      "id": 1680026676543
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cor_Lapis.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Item_Cor_Lapis.png",
+      "id": 1680026677030
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crab.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Crab.png",
+      "id": 1680026677518
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crab_Roe.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/25/Item_Crab_Roe.png",
+      "id": 1680026678018
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cream.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Item_Cream.png",
+      "id": 1680026678505
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crown_of_Insight.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Item_Crown_of_Insight.png",
+      "id": 1680026678965
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cryo_Sigil.png",
+      "value": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cryo_Sigil.png",
+      "id": 1680026679252
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crystal_Chunk.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/Item_Crystal_Chunk.png",
+      "id": 1680026679686
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crystal_Core.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Item_Crystal_Core.png",
+      "id": 1680026680118
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crystalfish.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Crystalfish.png",
+      "id": 1680026680592
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crystalline_Bloom.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Item_Crystalline_Bloom.png",
+      "id": 1680026681079
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crystalline_Cyst_Dust.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Item_Crystalline_Cyst_Dust.png",
+      "id": 1680026681095
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crystal_Marrow.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Crystal_Marrow.png",
+      "id": 1680026681543
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crystal_Prism.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Item_Crystal_Prism.png",
+      "id": 1680026682028
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cuihua_Wood.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/c5/Item_Cuihua_Wood.png",
+      "id": 1680026682512
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Daka's_Bell.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/a2/Item_Daka%27s_Bell.png",
+      "id": 1680026682537
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Damaged_Mask.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Damaged_Mask.png",
+      "id": 1680026682976
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Damaged_Prism.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Damaged_Prism.png",
+      "id": 1680026683463
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dandelion_Seed.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Item_Dandelion_Seed.png",
+      "id": 1680026683950
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dark_Statuette.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Item_Dark_Statuette.png",
+      "id": 1680026684424
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dawncatcher.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Item_Dawncatcher.png",
+      "id": 1680026684846
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dead_Ley_Line_Branch.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Item_Dead_Ley_Line_Branch.png",
+      "id": 1680026685264
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dead_Ley_Line_Leaves.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Item_Dead_Ley_Line_Leaves.png",
+      "id": 1680026685742
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Deathly_Statuette.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Deathly_Statuette.png",
+      "id": 1680026686186
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Debris_of_Decarabian's_City.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/96/Item_Debris_of_Decarabian%27s_City.png",
+      "id": 1680026686709
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dendrobium.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Item_Dendrobium.png",
+      "id": 1680026687139
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dendro_Sigil.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Item_Dendro_Sigil.png",
+      "id": 1680026687610
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Desiccated_Shell.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Item_Desiccated_Shell.png",
+      "id": 1680026688066
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dew_of_Repudiation.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Item_Dew_of_Repudiation.png",
+      "id": 1680026688564
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dismal_Prism.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Dismal_Prism.png",
+      "id": 1680026689039
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Divda_Ray.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Item_Divda_Ray.png",
+      "id": 1680026689497
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Divine_Body_from_Guyun.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/e8/Item_Divine_Body_from_Guyun.png",
+      "id": 1680026689961
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Divining_Scroll.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Item_Divining_Scroll.png",
+      "id": 1680026689977
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dormant_Fungal_Nucleus.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/99/Item_Dormant_Fungal_Nucleus.png",
+      "id": 1680026690404
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dragonheir's_False_Fin.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Item_Dragonheir%27s_False_Fin.png",
+      "id": 1680026690889
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dragon_Lord's_Crown.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Item_Dragon_Lord%27s_Crown.png",
+      "id": 1680026690903
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dream_of_Scorching_Might.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Item_Dream_of_Scorching_Might.png",
+      "id": 1680026691364
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dream_of_the_Dandelion_Gladiator.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Item_Dream_of_the_Dandelion_Gladiator.png",
+      "id": 1680026691858
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dream_Solvent.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Dream_Solvent.png",
+      "id": 1680026692302
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dried_Fish.png",
+      "value": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dried_Fish.png",
+      "id": 1680026692570
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dust_of_Azoth.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Dust_of_Azoth.png",
+      "id": 1680026692982
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dvalin's_Claw.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Item_Dvalin%27s_Claw.png",
+      "id": 1680026692997
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dvalin's_Plume.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Item_Dvalin%27s_Plume.png",
+      "id": 1680026693012
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dvalin's_Sigh.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Dvalin%27s_Sigh.png",
+      "id": 1680026693026
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Echo_of_Scorching_Might.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Item_Echo_of_Scorching_Might.png",
+      "id": 1680026693520
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Eel_Meat.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Item_Eel_Meat.png",
+      "id": 1680026693982
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Electro_Crystal.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/99/Item_Electro_Crystal.png",
+      "id": 1680026694397
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Electro_Sigil.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Item_Electro_Sigil.png",
+      "id": 1680026694863
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Elemental_Dust.png",
+      "value": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Elemental_Dust.png",
+      "id": 1680026695125
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Emperor's_Balsam.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Item_Emperor%27s_Balsam.png",
+      "id": 1680026695619
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Energy_Nectar.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Energy_Nectar.png",
+      "id": 1680026695634
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Enhancement_Ore.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Item_Enhancement_Ore.png",
+      "id": 1680026696079
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Everflame_Seed.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Item_Everflame_Seed.png",
+      "id": 1680026696539
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fabric.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Item_Fabric.png",
+      "id": 1680026697057
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Faded_Red_Satin.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Item_Faded_Red_Satin.png",
+      "id": 1680026697538
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fake_Fly_Bait.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Item_Fake_Fly_Bait.png",
+      "id": 1680026698024
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_False_Worm_Bait.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Item_False_Worm_Bait.png",
+      "id": 1680026698459
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Famed_Handguard.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Item_Famed_Handguard.png",
+      "id": 1680026698474
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Festering_Dragon_Marrow.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Item_Festering_Dragon_Marrow.png",
+      "id": 1680026698950
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fetters_of_the_Dandelion_Gladiator.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Item_Fetters_of_the_Dandelion_Gladiator.png",
+      "id": 1680026699417
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fine_Enhancement_Ore.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png",
+      "id": 1680026699865
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Firm_Arrowhead.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_Firm_Arrowhead.png",
+      "id": 1680026700335
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fir_Wood.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Item_Fir_Wood.png",
+      "id": 1680026700800
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fish.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Item_Fish.png",
+      "id": 1680026702049
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Flaming_Flower_Stamen.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Item_Flaming_Flower_Stamen.png",
+      "id": 1680026702483
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Flour.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Item_Flour.png",
+      "id": 1680026702933
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fluorescent_Fungus.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Fluorescent_Fungus.png",
+      "id": 1680026703376
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Forbidden_Curse_Scroll.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Item_Forbidden_Curse_Scroll.png",
+      "id": 1680026703400
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Formalo_Ray.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/25/Item_Formalo_Ray.png",
+      "id": 1680026703868
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fossilized_Bone_Shard.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Fossilized_Bone_Shard.png",
+      "id": 1680026704293
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fowl.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Item_Fowl.png",
+      "id": 1680026704775
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragile_Bone_Shard.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Item_Fragile_Bone_Shard.png",
+      "id": 1680026705190
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragment_of_Decarabian's_Epic.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Fragment_of_Decarabian%27s_Epic.png",
+      "id": 1680026705662
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragments_of_Innocence.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Item_Fragments_of_Innocence.png",
+      "id": 1680026706140
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragrant_Cedar_Wood.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/65/Item_Fragrant_Cedar_Wood.png",
+      "id": 1680026706579
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragrant_Seasoning.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/18/Item_Fragrant_Seasoning.png",
+      "id": 1680026707006
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Frog.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Item_Frog.png",
+      "id": 1680026707460
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fruit_Paste_Bait.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Item_Fruit_Paste_Bait.png",
+      "id": 1680026707963
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fungal_Spores.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Fungal_Spores.png",
+      "id": 1680026708388
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Geo_Sigil.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Item_Geo_Sigil.png",
+      "id": 1680026708878
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Gilded_Scale.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Item_Gilded_Scale.png",
+      "id": 1680026708892
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Glabrous_Beans.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Item_Glabrous_Beans.png",
+      "id": 1680026709381
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Glaze_Lily.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Item_Glaze_Lily.png",
+      "id": 1680026709812
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Glaze_Medaka.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Glaze_Medaka.png",
+      "id": 1680026710276
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Gloomy_Statuette.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Gloomy_Statuette.png",
+      "id": 1680026710692
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Glowgrass_Bait.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Item_Glowgrass_Bait.png",
+      "id": 1680026711131
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Glowing_Gem.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/43/Item_Glowing_Gem.png",
+      "id": 1680026711543
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Gnostic_Hymn_-_Old_Notes.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Item_Gnostic_Hymn_-_Old_Notes.png",
+      "id": 1680026712014
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Golden_Branch_of_a_Distant_Sea.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Item_Golden_Branch_of_a_Distant_Sea.png",
+      "id": 1680026712447
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Golden_Koi.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Golden_Koi.png",
+      "id": 1680026712912
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Golden_Raven_Insignia.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Golden_Raven_Insignia.png",
+      "id": 1680026712926
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Golden_Talisman_of_the_Forest_Dew.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Item_Golden_Talisman_of_the_Forest_Dew.png",
+      "id": 1680026713345
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Grain_of_Aerosiderite.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Item_Grain_of_Aerosiderite.png",
+      "id": 1680026713797
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Guide_to_Admonition.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Guide_to_Admonition.png",
+      "id": 1680026714015
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Guide_to_Ballad.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Guide_to_Ballad.png",
+      "id": 1680026714033
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Guide_to_Diligence.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/9f/Item_Guide_to_Diligence.png",
+      "id": 1680026714049
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Guide_to_Elegance.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/df/Item_Guide_to_Elegance.png",
+      "id": 1680026714064
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Guide_to_Freedom.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Item_Guide_to_Freedom.png",
+      "id": 1680026714078
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Guide_to_Gold.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/43/Item_Guide_to_Gold.png",
+      "id": 1680026714092
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Guide_to_Ingenuity.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Item_Guide_to_Ingenuity.png",
+      "id": 1680026714110
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Guide_to_Light.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Item_Guide_to_Light.png",
+      "id": 1680026714125
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Guide_to_Praxis.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/a1/Item_Guide_to_Praxis.png",
+      "id": 1680026714148
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Guide_to_Prosperity.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Item_Guide_to_Prosperity.png",
+      "id": 1680026714169
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Guide_to_Resistance.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Item_Guide_to_Resistance.png",
+      "id": 1680026714188
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Guide_to_Transience.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Item_Guide_to_Transience.png",
+      "id": 1680026714205
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Halcyon_Jade_Axe_Marlin.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Halcyon_Jade_Axe_Marlin.png",
+      "id": 1680026714225
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ham.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Item_Ham.png",
+      "id": 1680026714248
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Harra_Fruit.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/Item_Harra_Fruit.png",
+      "id": 1680026714268
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Heavy_Horn.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/c0/Item_Heavy_Horn.png",
+      "id": 1680026714293
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Hellfire_Butterfly.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/16/Item_Hellfire_Butterfly.png",
+      "id": 1680026714314
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Henna_Berry.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Item_Henna_Berry.png",
+      "id": 1680026714329
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Hero's_Wit.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png",
+      "id": 1680026714344
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Hoarfrost_Core.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Item_Hoarfrost_Core.png",
+      "id": 1680026714358
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Horsetail.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Item_Horsetail.png",
+      "id": 1680026714376
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Hunter's_Sacrificial_Knife.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Item_Hunter%27s_Sacrificial_Knife.png",
+      "id": 1680026714392
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Hunting_Trap.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Hunting_Trap.png",
+      "id": 1680026714412
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Hurricane_Seed.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Item_Hurricane_Seed.png",
+      "id": 1680026714441
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Hydro_Sigil.png",
+      "value": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Hydro_Sigil.png",
+      "id": 1680026714707
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Inactivated_Fungal_Nucleus.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Item_Inactivated_Fungal_Nucleus.png",
+      "id": 1680026714724
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Inspector's_Sacrificial_Knife.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Item_Inspector%27s_Sacrificial_Knife.png",
+      "id": 1680026714755
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Intertwined_Fate.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Item_Intertwined_Fate.png",
+      "id": 1680026714773
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Iron_Chunk.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Item_Iron_Chunk.png",
+      "id": 1680026714798
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Iron_Talisman_of_the_Forest_Dew.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Iron_Talisman_of_the_Forest_Dew.png",
+      "id": 1680026714814
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Jade_Branch_of_a_Distant_Sea.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/29/Item_Jade_Branch_of_a_Distant_Sea.png",
+      "id": 1680026714832
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Jam.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Item_Jam.png",
+      "id": 1680026714847
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Jeweled_Branch_of_a_Distant_Sea.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Item_Jeweled_Branch_of_a_Distant_Sea.png",
+      "id": 1680026714862
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Jueyun_Chili.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/13/Item_Jueyun_Chili.png",
+      "id": 1680026714876
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Juvenile_Jade.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Juvenile_Jade.png",
+      "id": 1680026714893
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Kageuchi_Handguard.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Kageuchi_Handguard.png",
+      "id": 1680026714908
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Kalpalata_Lotus.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Kalpalata_Lotus.png",
+      "id": 1680026714946
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Karmaphala_Wood.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Item_Karmaphala_Wood.png",
+      "id": 1680026714984
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Key_Sigil.png",
+      "value": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Key_Sigil.png",
+      "id": 1680026715247
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lantern_Fiber.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Item_Lantern_Fiber.png",
+      "id": 1680026716398
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lavender_Melon.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Lavender_Melon.png",
+      "id": 1680026716427
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lazurite_Axe_Marlin.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Item_Lazurite_Axe_Marlin.png",
+      "id": 1680026716451
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ley_Line_Sprouts.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Item_Ley_Line_Sprout.png",
+      "id": 1680026716472
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lieutenant's_Insignia.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Item_Lieutenant%27s_Insignia.png",
+      "id": 1680026716491
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Light_Guiding_Tetrahedron.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Item_Light_Guiding_Tetrahedron.png",
+      "id": 1680026716512
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lightning_Prism.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Item_Lightning_Prism.png",
+      "id": 1680026716532
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Light_Realm_Core.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Item_Light_Realm_Core.png",
+      "id": 1680026716550
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Light_Realm_Sigil.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Item_Light_Realm_Sigil.png",
+      "id": 1680026716572
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lizard_Tail.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Lizard_Tail.png",
+      "id": 1680026716591
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Loach_Pearl.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Item_Loach_Pearl.png",
+      "id": 1680026716615
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lotus_Head.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Item_Lotus_Head.png",
+      "id": 1680026716635
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lucky_Coin.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/Item_Lucky_Coin.png",
+      "id": 1680026716653
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Luminescent_Pollen.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/df/Item_Luminescent_Pollen.png",
+      "id": 1680026716677
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Luminescent_Spine.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Item_Luminescent_Spine.png",
+      "id": 1680026716694
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Luminous_Sands_from_Guyun.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Luminous_Sands_from_Guyun.png",
+      "id": 1680026716711
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lunged_Stickleback.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/Item_Lunged_Stickleback.png",
+      "id": 1680026716727
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lustrous_Stone_from_Guyun.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Item_Lustrous_Stone_from_Guyun.png",
+      "id": 1680026716745
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Magical_Crystal_Chunk.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Item_Magical_Crystal_Chunk.png",
+      "id": 1680026716764
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Majestic_Hooked_Beak.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Majestic_Hooked_Beak.png",
+      "id": 1680026716781
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Maple_Wood.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Maple_Wood.png",
+      "id": 1680026716797
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Marionette_Core.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/1d/Item_Marionette_Core.png",
+      "id": 1680026716818
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Marked_Shell.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Item_Marked_Shell.png",
+      "id": 1680026716838
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mask_of_Memories.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Mask_of_Memories.png",
+      "id": 1680026716857
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mask_of_the_Kijin.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/54/Item_Mask_of_the_Kijin.png",
+      "id": 1680026716878
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mask_of_the_One-Horned.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Item_Mask_of_the_One-Horned.png",
+      "id": 1680026716900
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mask_of_the_Tiger's_Bite.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Item_Mask_of_the_Tiger%27s_Bite.png",
+      "id": 1680026716915
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mask_of_the_Wicked_Lieutenant.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/Item_Mask_of_the_Wicked_Lieutenant.png",
+      "id": 1680026716932
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Masterless_Stardust.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/7c/Item_Masterless_Stardust.png",
+      "id": 1680026716947
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Masterless_Starglitter.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Masterless_Starglitter.png",
+      "id": 1680026716967
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Match_Invitation_Letter.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/Item_Match_Invitation_Letter.png",
+      "id": 1680026716982
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Matsutake.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Item_Matsutake.png",
+      "id": 1680026716997
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Medaka.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Item_Medaka.png",
+      "id": 1680026717014
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Medium_Pretty_Crystal.png",
+      "value": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Medium_Pretty_Crystal.png",
+      "id": 1680026717305
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Midlander_Bow_Billet.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Item_Midlander_Bow_Billet.png",
+      "id": 1680026717320
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Midlander_Catalyst_Billet.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Item_Midlander_Catalyst_Billet.png",
+      "id": 1680026717335
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Midlander_Claymore_Billet.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Item_Midlander_Claymore_Billet.png",
+      "id": 1680026717350
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Midlander_Polearm_Billet.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/7d/Item_Midlander_Polearm_Billet.png",
+      "id": 1680026717365
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Midlander_Sword_Billet.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Item_Midlander_Sword_Billet.png",
+      "id": 1680026717383
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Milk.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Item_Milk.png",
+      "id": 1680026717398
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mint.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Mint.png",
+      "id": 1680026717413
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mirror_of_Mushin.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Item_Mirror_of_Mushin.png",
+      "id": 1680026717433
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Flower_Corolla.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Item_Mist_Flower_Corolla.png",
+      "id": 1680026717461
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Grass.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Item_Mist_Grass.png",
+      "id": 1680026717495
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Grass_Pollen.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Mist_Grass_Pollen.png",
+      "id": 1680026717515
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Grass_Wick.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Item_Mist_Grass_Wick.png",
+      "id": 1680026717532
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Veiled_Gold_Elixir.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Mist_Veiled_Gold_Elixir.png",
+      "id": 1680026717547
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Veiled_Lead_Elixir.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Mist_Veiled_Lead_Elixir.png",
+      "id": 1680026717562
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Veiled_Mercury_Elixir.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Mist_Veiled_Mercury_Elixir.png",
+      "id": 1680026717578
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Veiled_Primo_Elixir.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/a3/Item_Mist_Veiled_Primo_Elixir.png",
+      "id": 1680026717594
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Molten_Moment.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Item_Molten_Moment.png",
+      "id": 1680026717610
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Moonstringer.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/e8/Item_Moonstringer.png",
+      "id": 1680026717631
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mora.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+      "id": 1680026717646
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mountain_Date_Wood.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/ed/Item_Mountain_Date_Wood.png",
+      "id": 1680026717663
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mudra_of_the_Malefic_General.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Item_Mudra_of_the_Malefic_General.png",
+      "id": 1680026717684
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mushroom.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Item_Mushroom.png",
+      "id": 1680026717700
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mysterious_Meat.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Item_Mysterious_Meat.png",
+      "id": 1680026717715
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mystic_Enhancement_Ore.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png",
+      "id": 1680026717730
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Nagadus_Emerald_Chunk.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Item_Nagadus_Emerald_Chunk.png",
+      "id": 1680026717745
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Nagadus_Emerald_Fragment.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Item_Nagadus_Emerald_Fragment.png",
+      "id": 1680026717761
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Nagadus_Emerald_Gemstone.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/c0/Item_Nagadus_Emerald_Gemstone.png",
+      "id": 1680026717777
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Nagadus_Emerald_Sliver.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Nagadus_Emerald_Sliver.png",
+      "id": 1680026717792
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Naku_Weed.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Item_Naku_Weed.png",
+      "id": 1680026717810
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Narukami's_Affection.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Item_Narukami%27s_Affection.png",
+      "id": 1680026717825
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Narukami's_Joy.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Narukami%27s_Joy.png",
+      "id": 1680026717841
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Narukami's_Valor.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Narukami%27s_Valor.png",
+      "id": 1680026717857
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Narukami's_Wisdom.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Item_Narukami%27s_Wisdom.png",
+      "id": 1680026717874
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Narukawa_Ukai.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Item_Narukawa_Ukai.png",
+      "id": 1680026717889
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Nature's_True_Fruit.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Item_Nature%27s_True_Fruit.png",
+      "id": 1680026717928
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Nilotpala_Lotus.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Nilotpala_Lotus.png",
+      "id": 1680026717944
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Noctilucous_Jade.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Noctilucous_Jade.png",
+      "id": 1680026717964
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Northlander_Bow_Billet.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Northlander_Bow_Billet.png",
+      "id": 1680026717984
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Northlander_Catalyst_Billet.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/3b/Item_Northlander_Catalyst_Billet.png",
+      "id": 1680026718001
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Northlander_Claymore_Billet.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Item_Northlander_Claymore_Billet.png",
+      "id": 1680026718027
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Northlander_Polearm_Billet.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Northlander_Polearm_Billet.png",
+      "id": 1680026718044
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Northlander_Sword_Billet.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Item_Northlander_Sword_Billet.png",
+      "id": 1680026718071
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Oasis_Garden's_Kindness.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/ba/Item_Oasis_Garden%27s_Kindness.png",
+      "id": 1680026718100
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Oasis_Garden's_Mourning.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Oasis_Garden%27s_Mourning.png",
+      "id": 1680026718115
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Oasis_Garden's_Reminiscence.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/54/Item_Oasis_Garden%27s_Reminiscence.png",
+      "id": 1680026718141
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Oasis_Garden's_Truth.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Item_Oasis_Garden%27s_Truth.png",
+      "id": 1680026718184
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ointment_of_Sight.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Item_Ointment_of_Sight.png",
+      "id": 1680026718201
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Olden_Days_of_Scorching_Might.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Olden_Days_of_Scorching_Might.png",
+      "id": 1680026718217
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Old_Handguard.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Item_Old_Handguard.png",
+      "id": 1680026718231
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ominous_Mask.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Ominous_Mask.png",
+      "id": 1680026718246
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Onikabuto.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Onikabuto.png",
+      "id": 1680026718262
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Onion.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Item_Onion.png",
+      "id": 1680026718280
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Original_Fish_Ointment.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/c4/Item_Original_Fish_Ointment.png",
+      "id": 1680026718301
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Otogi_Wood.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Item_Otogi_Wood.png",
+      "id": 1680026718324
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Padisarah.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Item_Padisarah.png",
+      "id": 1680026718341
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Parasol_Talcum.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Parasol_Talcum.png",
+      "id": 1680026718356
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Peach_of_the_Deep_Waves.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Item_Peach_of_the_Deep_Waves.png",
+      "id": 1680026718372
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Pepper.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Item_Pepper.png",
+      "id": 1680026718388
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Perpetual_Caliber.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Item_Perpetual_Caliber.png",
+      "id": 1680026718404
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Perpetual_Heart.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Item_Perpetual_Heart.png",
+      "id": 1680026718425
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philanemo_Mushroom.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Philanemo_Mushroom.png",
+      "id": 1680026718440
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Admonition.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Philosophies_of_Admonition.png",
+      "id": 1680026718456
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Ballad.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Item_Philosophies_of_Ballad.png",
+      "id": 1680026718473
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Diligence.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Item_Philosophies_of_Diligence.png",
+      "id": 1680026718495
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Elegance.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Item_Philosophies_of_Elegance.png",
+      "id": 1680026718524
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Freedom.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/c4/Item_Philosophies_of_Freedom.png",
+      "id": 1680026718540
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Gold.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_Philosophies_of_Gold.png",
+      "id": 1680026718556
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Ingenuity.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Item_Philosophies_of_Ingenuity.png",
+      "id": 1680026718572
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Light.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Item_Philosophies_of_Light.png",
+      "id": 1680026718590
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Praxis.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/8/82/Item_Philosophies_of_Praxis.png",
+      "id": 1680026718606
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Prosperity.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/Item_Philosophies_of_Prosperity.png",
+      "id": 1680026718622
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Resistance.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Philosophies_of_Resistance.png",
+      "id": 1680026718638
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Transience.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Item_Philosophies_of_Transience.png",
+      "id": 1680026718652
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Piece_of_Aerosiderite.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Item_Piece_of_Aerosiderite.png",
+      "id": 1680026718668
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Pinecone.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Item_Pinecone.png",
+      "id": 1680026718684
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Pine_Wood.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Item_Pine_Wood.png",
+      "id": 1680026718699
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Plaustrite_Shard.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/78/Item_Plaustrite_Shard.png",
+      "id": 1680026718715
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Plume_of_the_Changing_Winds.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/6b/Item_Plume_of_the_Changing_Winds.png",
+      "id": 1680026718731
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Polarizing_Prism.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Item_Polarizing_Prism.png",
+      "id": 1680026718746
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Potato.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Item_Potato.png",
+      "id": 1680026718761
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Primogem.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png",
+      "id": 1680026718776
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Prithiva_Topaz_Chunk.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/4b/Item_Prithiva_Topaz_Chunk.png",
+      "id": 1680026718792
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Prithiva_Topaz_Fragment.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Prithiva_Topaz_Fragment.png",
+      "id": 1680026718807
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Prithiva_Topaz_Gemstone.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Item_Prithiva_Topaz_Gemstone.png",
+      "id": 1680026718822
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Prithiva_Topaz_Sliver.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Prithiva_Topaz_Sliver.png",
+      "id": 1680026718838
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Pseudo-Stamens.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Item_Pseudo-Stamens.png",
+      "id": 1680026718853
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Pufferfish.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Pufferfish.png",
+      "id": 1680026718869
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Puppet_Strings.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Item_Puppet_Strings.png",
+      "id": 1680026718885
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Purple_Shirakodai.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Item_Purple_Shirakodai.png",
+      "id": 1680026718902
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Pyro_Sigil.png",
+      "value": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Pyro_Sigil.png",
+      "id": 1680026719168
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Qingxin.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Item_Qingxin.png",
+      "id": 1680026719187
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Quelled_Creeper.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Item_Quelled_Creeper.png",
+      "id": 1680026719201
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Radiant_Prism.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Item_Radiant_Prism.png",
+      "id": 1680026719217
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Radish.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Item_Radish.png",
+      "id": 1680026719232
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Raimei_Angelfish.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Item_Raimei_Angelfish.png",
+      "id": 1680026719247
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Raw_Meat.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Item_Raw_Meat.png",
+      "id": 1680026719263
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Recruit's_Insignia.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Item_Recruit%27s_Insignia.png",
+      "id": 1680026719283
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Red_Dye.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Item_Red_Dye.png",
+      "id": 1680026719299
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Redrot_Bait.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Item_Redrot_Bait.png",
+      "id": 1680026719318
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Relic_from_Guyun.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/94/Item_Relic_from_Guyun.png",
+      "id": 1680026719333
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Remnant_Glow_of_Scorching_Might.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Item_Remnant_Glow_of_Scorching_Might.png",
+      "id": 1680026719348
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Rice.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Item_Rice.png",
+      "id": 1680026719367
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Rich_Red_Brocade.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/36/Item_Rich_Red_Brocade.png",
+      "id": 1680026719383
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Riftborn_Regalia.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/Item_Riftborn_Regalia.png",
+      "id": 1680026719400
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Rime-Worn_Crystal.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Item_Rime-Worn_Crystal.png",
+      "id": 1680026719418
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Rime-Worn_Fragment.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Rime-Worn_Fragment.png",
+      "id": 1680026719433
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ring_of_Boreas.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Item_Ring_of_Boreas.png",
+      "id": 1680026719448
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Robust_Fungal_Nucleus.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Item_Robust_Fungal_Nucleus.png",
+      "id": 1680026719463
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Rukkhashava_Mushrooms.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Item_Rukkhashava_Mushrooms.png",
+      "id": 1680026719478
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Runic_Fang.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/8/89/Item_Runic_Fang.png",
+      "id": 1680026719492
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Rusty_Koi.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Item_Rusty_Koi.png",
+      "id": 1680026719507
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sakura_Bloom.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Sakura_Bloom.png",
+      "id": 1680026719522
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Salt.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Item_Salt.png",
+      "id": 1680026719539
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sandbearer_Wood.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/36/Item_Sandbearer_Wood.png",
+      "id": 1680026719554
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sand_Grease_Pupa.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Item_Sand_Grease_Pupa.png",
+      "id": 1680026719571
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sandstorm_Angler.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/3c/Item_Sandstorm_Angler.png",
+      "id": 1680026719591
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sango_Pearl.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Sango_Pearl.png",
+      "id": 1680026719614
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sausage.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/ba/Item_Sausage.png",
+      "id": 1680026719636
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Scarab.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Item_Scarab.png",
+      "id": 1680026719657
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Scattered_Piece_of_Decarabian's_Dream.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Item_Scattered_Piece_of_Decarabian%27s_Dream.png",
+      "id": 1680026719679
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Scorched_Starshroom.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Item_Scorched_Starshroom.png",
+      "id": 1680026719697
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sea_Ganoderma.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Item_Sea_Ganoderma.png",
+      "id": 1680026719713
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Seagrass.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Item_Seagrass.png",
+      "id": 1680026719730
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sealed_Scroll.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Sealed_Scroll.png",
+      "id": 1680026719748
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Serendipity.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Item_Serendipity.png",
+      "id": 1680026719765
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sergeant's_Insignia.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Sergeant%27s_Insignia.png",
+      "id": 1680026719781
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shackles_of_the_Dandelion_Gladiator.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Item_Shackles_of_the_Dandelion_Gladiator.png",
+      "id": 1680026719798
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shadow_of_the_Warrior.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Shadow_of_the_Warrior.png",
+      "id": 1680026719813
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shard_of_a_Foul_Legacy.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Item_Shard_of_a_Foul_Legacy.png",
+      "id": 1680026719828
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sharp_Arrowhead.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Item_Sharp_Arrowhead.png",
+      "id": 1680026719843
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shimmering_Nectar.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Shimmering_Nectar.png",
+      "id": 1680026719857
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shivada_Jade_Chunk.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Item_Shivada_Jade_Chunk.png",
+      "id": 1680026719874
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shivada_Jade_Fragment.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Item_Shivada_Jade_Fragment.png",
+      "id": 1680026719890
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shivada_Jade_Gemstone.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Item_Shivada_Jade_Gemstone.png",
+      "id": 1680026719908
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shivada_Jade_Sliver.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Item_Shivada_Jade_Sliver.png",
+      "id": 1680026719925
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shrimp_Meat.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/d0/Item_Shrimp_Meat.png",
+      "id": 1680026719941
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Silken_Print.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Item_Silken_Print.png",
+      "id": 1680026719956
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Silk_Flower.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Item_Silk_Flower.png",
+      "id": 1680026719972
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Silver_Lotus.png",
+      "value": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Silver_Lotus.png",
+      "id": 1680026720241
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Silver_Raven_Insignia.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Item_Silver_Raven_Insignia.png",
+      "id": 1680026720257
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Silver_Talisman_of_the_Forest_Dew.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/61/Item_Silver_Talisman_of_the_Forest_Dew.png",
+      "id": 1680026720272
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Slime_Concentrate.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Item_Slime_Concentrate.png",
+      "id": 1680026720287
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Slime_Condensate.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Item_Slime_Condensate.png",
+      "id": 1680026720303
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Slime_Secretions.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Item_Slime_Secretions.png",
+      "id": 1680026720319
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Small_Lamp_Grass.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Small_Lamp_Grass.png",
+      "id": 1680026720334
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Small_Pretty_Crystal.png",
+      "value": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Small_Pretty_Crystal.png",
+      "id": 1680026720612
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Smoked_Fish.png",
+      "value": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Smoked_Fish.png",
+      "id": 1680026720878
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Smoked_Fowl.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Smoked_Fowl.png",
+      "id": 1680026720894
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Smoldering_Pearl.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Item_Smoldering_Pearl.png",
+      "id": 1680026720909
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Snapdragon.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Item_Snapdragon.png",
+      "id": 1680026720924
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Snowstrider.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Item_Snowstrider.png",
+      "id": 1680026720939
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Spectral_Heart.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Item_Spectral_Heart.png",
+      "id": 1680026720955
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Spectral_Husk.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Item_Spectral_Husk.png",
+      "id": 1680026720984
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Spectral_Nucleus.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Item_Spectral_Nucleus.png",
+      "id": 1680026721000
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Spice.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Item_Spice.png",
+      "id": 1680026721015
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Spirit_Locket_of_Boreas.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Item_Spirit_Locket_of_Boreas.png",
+      "id": 1680026721030
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Stained_Mask.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Stained_Mask.png",
+      "id": 1680026721046
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Starconch.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Starconch.png",
+      "id": 1680026721062
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Starshroom.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Item_Starshroom.png",
+      "id": 1680026721079
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Starsilver.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Item_Starsilver.png",
+      "id": 1680026721098
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Storm_Beads.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Item_Storm_Beads.png",
+      "id": 1680026721117
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Strange_Tooth.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Item_Strange_Tooth.png",
+      "id": 1680026721135
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sturdy_Bone_Shard.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Item_Sturdy_Bone_Shard.png",
+      "id": 1680026721160
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sturdy_Shell.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Sturdy_Shell.png",
+      "id": 1680026721178
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sugar.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Item_Sugar.png",
+      "id": 1680026721195
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sugardew_Bait.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Item_Sugardew_Bait.png",
+      "id": 1680026721213
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sumeru_Rose.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Item_Sumeru_Rose.png",
+      "id": 1680026721247
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sunset_Cloud_Angler.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Item_Sunset_Cloud_Angler.png",
+      "id": 1680026721265
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sunsettia.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Item_Sunsettia.png",
+      "id": 1680026721282
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sweet_Flower.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Item_Sweet_Flower.png",
+      "id": 1680026721299
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sweet-Flower_Medaka.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Item_Sweet-Flower_Medaka.png",
+      "id": 1680026721316
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Tail_of_Boreas.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/66/Item_Tail_of_Boreas.png",
+      "id": 1680026721333
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Admonition.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Item_Teachings_of_Admonition.png",
+      "id": 1680026721348
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Ballad.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Item_Teachings_of_Ballad.png",
+      "id": 1680026721364
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Diligence.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Item_Teachings_of_Diligence.png",
+      "id": 1680026721380
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Elegance.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Item_Teachings_of_Elegance.png",
+      "id": 1680026721396
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Freedom.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Item_Teachings_of_Freedom.png",
+      "id": 1680026721415
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Gold.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Item_Teachings_of_Gold.png",
+      "id": 1680026721442
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Ingenuity.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Item_Teachings_of_Ingenuity.png",
+      "id": 1680026721458
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Light.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Item_Teachings_of_Light.png",
+      "id": 1680026721475
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Praxis.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/92/Item_Teachings_of_Praxis.png",
+      "id": 1680026721491
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Prosperity.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/9e/Item_Teachings_of_Prosperity.png",
+      "id": 1680026721505
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Resistance.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Teachings_of_Resistance.png",
+      "id": 1680026721521
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Transience.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Item_Teachings_of_Transience.png",
+      "id": 1680026721540
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Tea-Colored_Shirakodai.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Tea-Colored_Shirakodai.png",
+      "id": 1680026721557
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Tears_of_the_Calamitous_God.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Item_Tears_of_the_Calamitous_God.png",
+      "id": 1680026721572
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_The_Meaning_of_Aeons.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Item_The_Meaning_of_Aeons.png",
+      "id": 1680026721587
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_The_Visible_Winds.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Item_The_Visible_Winds.png",
+      "id": 1680026721602
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Thunderclap_Fruitcore.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Item_Thunderclap_Fruitcore.png",
+      "id": 1680026721619
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Tile_of_Decarabian's_Tower.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Item_Tile_of_Decarabian%27s_Tower.png",
+      "id": 1680026721636
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Tofu.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Item_Tofu.png",
+      "id": 1680026721650
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Tomato.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Tomato.png",
+      "id": 1680026721665
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Treasure_Hoarder_Insignia.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Item_Treasure_Hoarder_Insignia.png",
+      "id": 1680026721682
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Trimmed_Red_Silk.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Item_Trimmed_Red_Silk.png",
+      "id": 1680026721699
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_True_Fruit_Angler.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/9f/Item_True_Fruit_Angler.png",
+      "id": 1680026721714
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Turbid_Prism.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Item_Turbid_Prism.png",
+      "id": 1680026721730
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Tusk_of_Monoceros_Caeli.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Item_Tusk_of_Monoceros_Caeli.png",
+      "id": 1680026721747
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ultra-Hot_Burner_Lamp_Test_Model.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Item_Ultra-Hot_Burner_Lamp_Test_Model.png",
+      "id": 1680026721764
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Unfading_Silky_Grace.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Item_Unfading_Silky_Grace.png",
+      "id": 1680026721780
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vajrada_Amethyst_Chunk.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Item_Vajrada_Amethyst_Chunk.png",
+      "id": 1680026721805
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vajrada_Amethyst_Fragment.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Item_Vajrada_Amethyst_Fragment.png",
+      "id": 1680026721821
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vajrada_Amethyst_Gemstone.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Item_Vajrada_Amethyst_Gemstone.png",
+      "id": 1680026721838
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vajrada_Amethyst_Sliver.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Item_Vajrada_Amethyst_Sliver.png",
+      "id": 1680026721858
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Valberry.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/ed/Item_Valberry.png",
+      "id": 1680026721882
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Varunada_Lazurite_Chunk.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Item_Varunada_Lazurite_Chunk.png",
+      "id": 1680026721898
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Varunada_Lazurite_Fragment.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/f6/Item_Varunada_Lazurite_Fragment.png",
+      "id": 1680026721914
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Varunada_Lazurite_Gemstone.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/a4/Item_Varunada_Lazurite_Gemstone.png",
+      "id": 1680026721931
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Varunada_Lazurite_Sliver.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Item_Varunada_Lazurite_Sliver.png",
+      "id": 1680026721948
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vayuda_Turquoise_Chunk.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Vayuda_Turquoise_Chunk.png",
+      "id": 1680026721966
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vayuda_Turquoise_Fragment.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Vayuda_Turquoise_Fragment.png",
+      "id": 1680026721982
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vayuda_Turquoise_Gemstone.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Vayuda_Turquoise_Gemstone.png",
+      "id": 1680026721999
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vayuda_Turquoise_Sliver.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Item_Vayuda_Turquoise_Sliver.png",
+      "id": 1680026722016
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Venomspine_Fish.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Venomspine_Fish.png",
+      "id": 1680026722032
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vial_of_Adeptal_Speed.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Item_Vial_of_Adeptal_Speed.png",
+      "id": 1680026722061
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Violetgrass.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Violetgrass.png",
+      "id": 1680026722077
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Viparyas.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/09/Item_Viparyas.png",
+      "id": 1680026722092
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vitalized_Dragontooth.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/8/8c/Item_Vitalized_Dragontooth.png",
+      "id": 1680026722110
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wanderer's_Advice.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Wanderer%27s_Advice.png",
+      "id": 1680026722126
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Weathered_Arrowhead.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Item_Weathered_Arrowhead.png",
+      "id": 1680026722145
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wheat.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Item_Wheat.png",
+      "id": 1680026722162
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_White_Iron_Chunk.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Item_White_Iron_Chunk.png",
+      "id": 1680026722178
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Whopperflower_Nectar.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Item_Whopperflower_Nectar.png",
+      "id": 1680026722197
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wick_Material.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Item_Wick_Material.png",
+      "id": 1680026722214
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wilderness_Rod.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Item_Wilderness_Rod.png",
+      "id": 1680026722230
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Windtangler.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Item_Windtangler.png",
+      "id": 1680026722249
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Windwheel_Aster.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Windwheel_Aster.png",
+      "id": 1680026722267
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wishmaker.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/5b/Item_Wishmaker.png",
+      "id": 1680026722282
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wolfhook.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Item_Wolfhook.png",
+      "id": 1680026722299
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Yellow_Dye.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Item_Yellow_Dye.png",
+      "id": 1680026722319
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Yumemiru_Wood.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/6/61/Item_Yumemiru_Wood.png",
+      "id": 1680026722335
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Zaytun_Peach.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Zaytun_Peach.png",
+      "id": 1680027898524
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_A_Flower_Yet_to_Bloom.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Item_A_Flower_Yet_to_Bloom.png",
+      "id": 1683445800492
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Everamber.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Everamber.png",
+      "id": 1683445801085
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Evergloom_Ring.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/4/4d/Item_Evergloom_Ring.png",
+      "id": 1683445801569
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mourning_Flower.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Item_Mourning_Flower.png",
+      "id": 1683445802313
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Plume_of_Purifying_Light.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Item_Plume_of_Purifying_Light.png",
+      "id": 1683445802782
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Primordial_Greenbloom.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Item_Primordial_Greenbloom.png",
+      "id": 1683445803250
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Treasured_Flower.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Item_Treasured_Flower.png",
+      "id": 1683445803771
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Trishiraite.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/c/c5/Item_Trishiraite.png",
+      "id": 1683445804222
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wanderer's_Blooming_Flower.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Item_Wanderer%27s_Blooming_Flower.png",
+      "id": 1683445804687
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Worldspan_Fern.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Item_Worldspan_Fern.png",
+      "id": 1683445805139
+    },
+    {
+      "name": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Congealed_Pupa_Wax.png",
+      "value": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Congealed_Pupa_Wax.png",
+      "id": 1686354394270
+    }
+  ]
+}
