@@ -110,7 +110,7 @@ export default {
       const charresponse = await window.api.findCharacterByName(char.name)
       if(charresponse){
         char.image = {
-          avatar: JSON.parse(charresponse).images['hoyolab-avatar']?JSON.parse(charresponse).images['hoyolab-avatar']: JSON.parse(charresponse).images['icon'],
+          avatar: JSON.parse(charresponse).images['hoyolab-avatar']?JSON.parse(charresponse).images['hoyolab-avatar']: JSON.parse(charresponse).images['cover1'],
           icon: JSON.parse(charresponse).images['icon']
         }
       } 
